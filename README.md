@@ -4,7 +4,7 @@ My name is Filippo Chinni Carella. I'm currently a "Computer Science and Technol
 
 I'm interested in Software Engineering and Artifical Intelligence technologies. I'm graduating for bachelor's degree this year, and I'm planning to continue my studies after with a major.
 
-**Skill** 📚:<br>
+**Skills** 📚:<br>
 Project Management | Problem Solving | Software Engineering Principles
 
 **Support Scripting Languages** 🖱️:<br>
